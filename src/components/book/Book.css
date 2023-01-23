@@ -14,6 +14,7 @@
   border: 2px inset #ccc;
   background-color: #ccc;
   box-shadow: 1px 1px 3px 3px #ddd inset, -1px -1px 1px 1px #aaa inset;
+  height: 120px;
 }
 
 .book h3 {

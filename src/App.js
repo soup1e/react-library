@@ -12,6 +12,7 @@ function App() {
         <Route path="/books/:id">
           <BookDetail />
         </Route>
+
         <Route path="/books">
           <Link to="/">To Homepage...</Link>
           <BookList />
